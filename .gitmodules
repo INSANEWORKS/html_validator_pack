@@ -1,0 +1,12 @@
+[submodule "tidy-html5"]
+	path = tidy-html5
+	url = https://github.com/w3c/tidy-html5.git
+[submodule "CSSTidy"]
+	path = CSSTidy
+	url = https://github.com/Cerdic/CSSTidy.git
+[submodule "javascriptlint"]
+	path = javascriptlint
+	url = https://github.com/davepacheco/javascriptlint.git
+[submodule "csstidy-cmd"]
+	path = csstidy-cmd
+	url = https://gist.github.com/6302329.git
